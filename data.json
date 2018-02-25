@@ -1,0 +1,333 @@
+{
+    "pools":  [
+                  {
+                      "Homepage":  "http://grlc-bakery.fun/",
+                      "Name":  "Bakery",
+                      "Owner":  "@Vilsol#2060",
+                      "Address":  "stratum+tcp://pool.grlc-bakery.fun:3333",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://pool.garlicsoup.xyz",
+                      "Name":  "GarlicSoup",
+                      "Owner":  "@Martin#6614",
+                      "Address":  "stratum+tcp://us.pool.garlicsoup.xyz:3333",
+                      "Fee":  "1%**\\***"
+                  },
+                  {
+                      "Homepage":  "https://garlicpool.org",
+                      "Name":  "GarlicPool.org",
+                      "Owner":  "@Smiba#3781",
+                      "Address":  "stratum+tcp://stratum.garlicpool.org:3333",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "http://happy.garlicoin.fun",
+                      "Name":  "Happy Garlic Pool",
+                      "Owner":  "@eins#0361",
+                      "Address":  "stratum+tcp://happy.garlicoin.fun:3210",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://hry-mining.co/",
+                      "Name":  "HRY Mining Co.",
+                      "Owner":  "@Tyler#9270",
+                      "Address":  "stratum+tcp://hry-mining.co:3032",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://rich.garlicboye.com/",
+                      "Name":  "Rich Garlic Boye",
+                      "Owner":  "@Reap#3306",
+                      "Address":  "stratum+tcp://rich.garlicboye.com:3333",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "http://butterpool.com/",
+                      "Name":  "ButterPool",
+                      "Owner":  "@GameFuzion#0282",
+                      "Address":  "stratum+tcp://butterpool.com:3032",
+                      "Fee":  "0.75%"
+                  },
+                  {
+                      "Homepage":  "http://garlicmine.com",
+                      "Name":  "GarlicMine",
+                      "Owner":  "@fstrmn#8930",
+                      "Address":  "stratum+tcp://garlicmine.com:3333",
+                      "Fee":  "0.42%"
+                  },
+                  {
+                      "Homepage":  "http://cryptojoy.xyz",
+                      "Name":  "Cryptojoy",
+                      "Owner":  "@Sobeston#1056",
+                      "Address":  "stratum+tcp://pool.cryptojoy.xyz:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "https://h36.nl/",
+                      "Name":  "H36",
+                      "Owner":  "@Cotix#4250",
+                      "Address":  "stratum+tcp://h36.nl:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "https://minegarlic.com/",
+                      "Name":  "MineGarlic",
+                      "Owner":  "@dmalf#6723",
+                      "Address":  "stratum+tcp://pool.minegarlic.com:3032",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://www.freshgarlicblocks.net/",
+                      "Name":  "FreshGRLC",
+                      "Owner":  "@nuc1e4r5n4k3#5815",
+                      "Address":  "stratum+tcp://freshgarlicblocks.net:3032",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://pool.grlcbreath.com/",
+                      "Name":  "GRLC Breath",
+                      "Owner":  "@revtex#5981",
+                      "Address":  "stratum+tcp://pool.grlcbreath.com:3032",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://cagecoinpool.com",
+                      "Name":  "CageCoin Pool",
+                      "Owner":  "@swordfish#5125",
+                      "Address":  "stratum+tcp://cagecoinpool.com:3334",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "http://goldenloaves.xyz/",
+                      "Name":  "Golden Loaves",
+                      "Owner":  "@Woodsman#5494",
+                      "Address":  "stratum+tcp://goldenloaves.xyz:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://clovemines.fun/",
+                      "Name":  "Clove Mines",
+                      "Owner":  "@Bonobo#8875",
+                      "Address":  "stratum+tcp://clovemines.fun:3333",
+                      "Fee":  "0.05%"
+                  },
+                  {
+                      "Homepage":  "http://aiolipool.eu/",
+                      "Name":  "Aioli Pool",
+                      "Owner":  "@JeroenDG#8991",
+                      "Address":  "stratum+tcp://mine.aiolipool.eu:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://pool.garlicpress.eu/",
+                      "Name":  "Garlic Press",
+                      "Owner":  "@Snorkel#1338",
+                      "Address":  "stratum+tcp://pool.garlicpress.eu:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://holyfskingshtareyouserious.com/",
+                      "Name":  "Garlic Machine",
+                      "Owner":  "@xkronusx#3840",
+                      "Address":  "stratum+tcp://garlicmachine.redirectme.net:3032",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://pool.v2.sk/",
+                      "Name":  "V2 Pool",
+                      "Owner":  "@mario.chamuty#8840",
+                      "Address":  "stratum+tcp://pool.v2.sk:3433",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://garlicoin.iambadass.com/",
+                      "Name":  "Badass Pool",
+                      "Owner":  "@MF#3048",
+                      "Address":  "stratum+tcp://garlicoin.iambadass.com:3333",
+                      "Fee":  "0.69%"
+                  },
+                  {
+                      "Homepage":  "http://breadpool.org/",
+                      "Name":  "Bread Pool",
+                      "Owner":  "@Spydy#8322",
+                      "Address":  "stratum+tcp://breadpool.org:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://garlicbois.com/",
+                      "Name":  "Garlic Bois",
+                      "Owner":  "@PoolWarrior#3690",
+                      "Address":  "stratum+tcp://garlicbois.com:3333",
+                      "Fee":  "0.25%"
+                  },
+                  {
+                      "Homepage":  "http://grlc.co/",
+                      "Name":  "GRLC Pool",
+                      "Owner":  "@MrSolo#7742",
+                      "Address":  "stratum+tcp://grlc.co:3032",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://mining-nation.ml/",
+                      "Name":  "Mining Nation",
+                      "Owner":  "@JohnDavies1987#5426",
+                      "Address":  "stratum+tcp://mining-nation.ml:4008",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "https://garlicmine.asia/",
+                      "Name":  "Garlic Mine Asia",
+                      "Owner":  "@bearpit#6143",
+                      "Address":  "stratum+tcp://pool.garlicmine.asia:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://garliclegends.xyz/",
+                      "Name":  "Garlic Legends",
+                      "Owner":  "@obxSandDevil#7856",
+                      "Address":  "stratum+tcp://garliclegends.ml:3333",
+                      "Fee":  "0.20%"
+                  },
+                  {
+                      "Homepage":  "https://breadbrit.uk/",
+                      "Name":  "Bread Brit",
+                      "Owner":  "@MrDag0n#1388",
+                      "Address":  "stratum+tcp://pool.breadbrit.uk:3333",
+                      "Fee":  "0.33%"
+                  },
+                  {
+                      "Homepage":  "https://wildgarlic.fun/",
+                      "Name":  "Wild Garlic",
+                      "Owner":  "@Kryptonite#6233",
+                      "Address":  "stratum+tcp://eu.wildgarlic.fun:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "https://garlicoinpool.com/",
+                      "Name":  "GarlicoinPool",
+                      "Owner":  "@antibac#4027",
+                      "Address":  "stratum+tcp://garlicoinpool.com:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "https://www.grlc.farm",
+                      "Name":  "GRLC Farm",
+                      "Owner":  "@DBN#1688",
+                      "Address":  "stratum+tcp://grlc.farm:3333",
+                      "Fee":  "0.5%"
+                  },
+                  {
+                      "Homepage":  "http://garlicinc.ca/",
+                      "Name":  "Garlic, Inc",
+                      "Owner":  "@Cableguyp#1285",
+                      "Address":  "stratum+tcp:/garlicinc.ca:3333",
+                      "Fee":  "0.75%"
+                  },
+                  {
+                      "Homepage":  "http://grlc.widgocorp.com",
+                      "Name":  "Widgocorp Pool",
+                      "Owner":  "/u/TheWalter_White",
+                      "Address":  "stratum+tcp://stratum.grlc.widgocorp.com:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://garlicbillionaire.com/",
+                      "Name":  "Garlic Billionaire",
+                      "Owner":  "@NEZBITE#6443",
+                      "Address":  "stratum+tcp://garlicbillionaire.com:3032",
+                      "Fee":  "3%**\\***"
+                  },
+                  {
+                      "Homepage":  "http://www.garlicbread.xyz/",
+                      "Name":  "Garlic Bread Pool",
+                      "Owner":  "@dvs#3349",
+                      "Address":  "stratum+tcp://stratum.garlicbread.xyz:3032",
+                      "Fee":  "1%**\\***"
+                  },
+                  {
+                      "Homepage":  "https://eurogarlic.pw/",
+                      "Name":  "Eurogarlic",
+                      "Owner":  "luplCZ",
+                      "Address":  "stratum+tcp://mine.eurogarlic.pw:3333",
+                      "Fee":  "0.8%"
+                  },
+                  {
+                      "Homepage":  "http://rypenation.club/",
+                      "Name":  "The RypeNation",
+                      "Owner":  "@RypeDub#7388",
+                      "Address":  "stratum+tcp://pool.rypenation.club:3333",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://vampirecryptonite.allgamer.net/",
+                      "Name":  "Vampire Crytonite",
+                      "Owner":  "@Andy Anderson#8055",
+                      "Address":  "stratum+tcp://vampirecryptonite.allgamer.net:3333",
+                      "Fee":  "0.25%"
+                  },
+                  {
+                      "Homepage":  "http://garlicoin.techfreckle.com/",
+                      "Name":  "TechFreckle",
+                      "Owner":  "@Phexeye#2215",
+                      "Address":  "stratum+tcp://garlicoin.techfreckle.com:3333",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://garlic-factory.fun/",
+                      "Name":  "Garlic Factory",
+                      "Owner":  "@ossgeek#5893",
+                      "Address":  "stratum+tcp://pool.garlic-factory.fun:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "http://garlicoin.recipes/",
+                      "Name":  "Garlicoin Recipes†",
+                      "Owner":  "@RielDeal#1430",
+                      "Address":  "stratum+tcp://garlicoin.recipes:3032",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "http://garlicmaker.com/",
+                      "Name":  "Garlic Maker",
+                      "Owner":  "Dogeazon",
+                      "Address":  "stratum+tcp://159.89.153.59:3256",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://ballisticpool.net/",
+                      "Name":  "Ballistic Pool",
+                      "Owner":  "@Parcanss#0941",
+                      "Address":  "stratum+tcp://ballisticpool.net:3333",
+                      "Fee":  "0.4%"
+                  },
+                  {
+                      "Homepage":  "https://grlc.suprnova.cc/",
+                      "Name":  "grlc.suprnova.cc",
+                      "Owner":  "@ocminer#2372",
+                      "Address":  "stratum+tcp://grlc.suprnova.cc:8600",
+                      "Fee":  "1%"
+                  },
+                  {
+                      "Homepage":  "https://getgrlc.com/",
+                      "Name":  "GetGRLC",
+                      "Owner":  "@CastawayEGR#2987",
+                      "Address":  "stratum+tcp://us.getgrlc.com:3005",
+                      "Fee":  "0.1%"
+                  },
+                  {
+                      "Homepage":  "http://drink.garlic.wine",
+                      "Name":  "Drink Garlic Wine",
+                      "Owner":  "@fishfox#5979",
+                      "Address":  "stratum+tcp://drink.garlic.wine:3333",
+                      "Fee":  "0%"
+                  },
+                  {
+                      "Homepage":  "https://grlcoven.com/",
+                      "Name":  "Garlic Oven",
+                      "Owner":  "@Qwerert#4703",
+                      "Address":  "stratum+tcp://grlcoven.com:3333",
+                      "Fee":  "0%"
+                  }
+              ]
+}
